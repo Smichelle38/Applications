@@ -1,3 +1,3 @@
 # Applications
 
-Hi! I'm a grad student at Maryville University studying Software Development.  This is my first chat application using Socket.io & Node.js
+Hi! I'm a grad student at Maryville University studying Software Development. This repository is to explore and practice my skills feel free to add to or copy my code.
